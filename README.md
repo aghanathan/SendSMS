@@ -9,7 +9,7 @@
 ## Demo
 - Youtube
 
-## Contoh Penggunaan
+## Contoh Penggunaan (sendSms.php)
 ```php
 <?php
 error_reporting(0);
