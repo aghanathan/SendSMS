@@ -9,7 +9,7 @@
 ## ScreenShot
 <img src="https://github.com/aghanathan/SendSMS/blob/master/screenShotZ.png">
 
-## Contoh Penggunaan (sendSms.php)
+## Contoh Penggunaan API Reguler JSon dalam Aplikasi (sendSms.php)
 ```php
 <?php
 error_reporting(0);
