@@ -1,5 +1,5 @@
-# SendSMS
-### Contoh Penggunaan SMS API (dengan Raja-Sms) :beer:
+# SendSMS :beer: :beer: :beer:
+### Contoh Penggunaan SMS API (dengan Raja-Sms)
 
 - [x] Check Balance (Saldo & Expiration Date)
 - [x] Update Settings (API Key, IP Server & Recipient Number)
