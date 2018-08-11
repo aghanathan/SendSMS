@@ -1,14 +1,16 @@
 # SendSMS
-Contoh Penggunaan SMS API (dengan Raja-Sms)
+Contoh Penggunaan SMS API (dengan Raja-Sms) :beer:
 
-<h2>Demo</h2>
-<ul>
-   <li></li>
-</ul>
+- [x] Check Balance (Saldo & Expiration Date)
+- [x] Update Settings (API Key, IP Server & Recipient Number)
+- [x] Send SMS/Text Message
+- [x] Message Log/History
 
-<h2>Contoh Penggunaan</h2>
-<div class="highlight highlight-text-html-basic">
-<pre>
+## Demo
+- Youtube
+
+## Contoh Penggunaan
+```php
 <?php
 error_reporting(0);
 require('../config/config.inc.php');
@@ -67,7 +69,4 @@ function addMessageLog($toNumber, $message, $status) {
 
 	$conn->close();
 }
-</pre>
-</div>
-
-<img src='https://github.com/aghanathan/SendSMS/blob/master/screenShotZ.png'/>
+```
