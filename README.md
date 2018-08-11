@@ -6,8 +6,8 @@
 - [x] Send SMS/Text Message
 - [x] Message Log/History
 
-## Demo
-- Youtube
+## ScreenShot
+<img src="https://github.com/aghanathan/SendSMS/blob/master/screenShotZ.png">
 
 ## Contoh Penggunaan (sendSms.php)
 ```php
