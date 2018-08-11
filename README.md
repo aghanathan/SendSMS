@@ -1,4 +1,4 @@
 # SendSMS
 Contoh Penggunaan SMS API (dengan Raja-Sms)
 
-<img src='https://github.com/aghanathan/SendSMS/blob/master/ScreenShot.png'/>
+<img src='https://github.com/aghanathan/SendSMS/blob/master/preview.png'/>
